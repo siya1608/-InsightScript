@@ -1,4 +1,4 @@
-# AI Video Assistant
+# INSIGHTSCRIPT
 
 This repository contains a Streamlit-based AI meeting assistant for transcribing audio or video content, summarizing meetings, extracting action items, and answering questions using a RAG chat interface.
 
