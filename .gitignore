@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Local downloads and media
+downloads/
+downloades/
+*.wav
+*.mp4
+*.m4a
+*.webm
+
+# Vector store and cache
+vector_db/
+.chroma/
+
+# OS files
+.DS_Store
